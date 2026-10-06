@@ -3,16 +3,79 @@
   "components": [
     "text"
   ],
-  "builds": [],
-  "game_build_id": "",
+  "builds": [
+    "RUSIK-Galactic-Racer-Byrnane-v0.3.0"
+  ],
+  "game_build_id": "25723189",
   "text_locale": "en-US",
-  "audio_locale": "de-DE",
-  "compatibility": "",
-  "changes": "",
+  "audio_locale": "",
+  "compatibility": "Steam, Build ID 25723189",
+  "changes": "Тестовый релиз",
   "known_issues": "",
-  "instructions": "",
+  "instructions": "УСТАНОВКА\n1. Закройте игру.\n2. Распакуйте содержимое ZIP в папку, где установлена игра, и подтвердите замену файлов.\n   Или перетащите из архива папку «Griffin» в папку с игрой и подтвердите замену файлов.\n   В Steam: нажмите правой кнопкой на игру в библиотеке → Управление → Просмотреть локальные файлы.\n3. В настройках игры выберите язык текста: Английский (English).\nПерезапустите игру после смены языка.\n\nОБНОВЛЕНИЕ\nЗакройте игру.\nДля ZIP: повторите шаг 2 с новым архивом и подтвердите замену файлов.\nДля EXE: запустите новый установщик — он сам заменит файлы перевода.\n\nУДАЛЕНИЕ\nЕсли перевод установлен из ZIP, удалите папку мода «RUSIK_by_Byrnane» целиком:\n   Griffin/Content/Paks/~mods/RUSIK_by_Byrnane\n\nЕсли перевод установлен через EXE, откройте папку .RUSIK в папке с игрой и запустите uninstall.exe.",
   "prerelease": false,
-  "assets": [],
+  "assets": [
+    {
+      "kind": "zip",
+      "name": "RUSIK-Galactic-Racer-Byrnane-v0.3.0.zip",
+      "size": 1696240,
+      "sha256": "104f3ecd961f712bbd25a2baef651c63ea57c750b5f9209c2cd9c9991df9071a"
+    },
+    {
+      "kind": "exe",
+      "name": "RUSIK-Galactic-Racer-Byrnane-v0.3.0-Setup.exe",
+      "size": 3149635,
+      "sha256": "bd6ba125ab40613c498a4db5589a037182949cd4e92fd41cb2c31fee5bc1adfd"
+    },
+    {
+      "kind": "document",
+      "name": "README.txt",
+      "size": 2406,
+      "sha256": "18750ce095cf5a82cec861ca77d8d527c9929695c1d2265b1b6e2fdd14614c3b"
+    },
+    {
+      "kind": "document",
+      "name": "CHANGELOG.md",
+      "size": 40,
+      "sha256": "5185682945de25f9e27d333ad5b77a567473ae03aa5d6e9c43dfa9f4142d1e96"
+    },
+    {
+      "kind": "document",
+      "name": "RELEASE.md",
+      "size": 2012,
+      "sha256": "d15857b5124eda5af8d94045fee31d624166c356bb14ded3aed5848ca21cc86f"
+    },
+    {
+      "kind": "image",
+      "name": "cover.png",
+      "size": 2264789,
+      "sha256": "18c4dab670be9fef82e8d7d3b79d281e6b1482348112d01f37d49802ebd08771"
+    },
+    {
+      "kind": "image",
+      "name": "screenshot_1.jpg",
+      "size": 888046,
+      "sha256": "fee5e5c83b52d86511506bb21cd8609d7ab717e629661dd6189c53503f4e71c1"
+    },
+    {
+      "kind": "image",
+      "name": "screenshot_2.jpg",
+      "size": 369351,
+      "sha256": "8d678c4a3c656341ce369459e1e44f4d5387605bf8b2e416a10aa27431feb049"
+    },
+    {
+      "kind": "image",
+      "name": "installer.png",
+      "size": 2233922,
+      "sha256": "f7e5569e089ffd07686949a0e82521991887cc1760e64caf8e580c5655e2849f"
+    },
+    {
+      "kind": "document",
+      "name": "SHA256SUMS.txt",
+      "size": 782,
+      "sha256": "ae83acfc172d92f6ab9b41da603de464685e7d86363451905ea523e528a36b77"
+    }
+  ],
   "mirrors": [],
   "telegram_post_url": ""
 }
