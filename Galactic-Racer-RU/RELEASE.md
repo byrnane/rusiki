@@ -1,8 +1,8 @@
 # STAR WARS: Galactic Racer — русификатор от Byrnane
 
-Версия **0.3.0**.
+Версия **0.4.0**.
 
-Работаю над переводом. Когда закончу, русификатор можно будет скачать здесь.
+Перевод текста STAR WARS: Galactic Racer на русский язык.
 
 ## Совместимость
 
@@ -10,7 +10,7 @@ Steam, Build ID 25723189
 
 ## Что изменилось
 
-Тестовый релиз
+Первый релиз
 
 ## Установка, обновление и удаление
 
@@ -36,5 +36,9 @@ Steam, Build ID 25723189
 ## Скачать
 
 [Страница русификатора](https://byrnane.dev/rusiki/galactic-racer-ru/)
+
+[Янлекс Диск](https://disk.yandex.ru/d/fyvYpPWzAF_ZnQ)
+
+[Google Drive](https://drive.google.com/drive/folders/1i3sDS0jHNrh8jcrIOwLOAXnlCe17jGQG?usp=sharing)
 
 [Сообщить об ошибке](https://github.com/byrnane/rusiki/issues)

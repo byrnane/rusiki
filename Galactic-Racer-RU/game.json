@@ -21,6 +21,21 @@
       "file": "media/screenshot_2.jpg",
       "caption": "Настройки графики",
       "alt": "Настройки графики Galactic Racer на русском языке: режим экрана и качество изображения"
+    },
+    {
+      "file": "media/screenshot-f14ceb224ead31da.jpg",
+      "caption": "Вступление",
+      "alt": "STAR WARS: Galactic Racer, скриншот 3"
+    },
+    {
+      "file": "media/screenshot-f090c640375d2561.jpg",
+      "caption": "Диалог в катсцене",
+      "alt": "STAR WARS: Galactic Racer, скриншот 4"
+    },
+    {
+      "file": "media/screenshot-fe1ba7b2a3796b26.jpg",
+      "caption": "Диалог в геймплее",
+      "alt": "STAR WARS: Galactic Racer, скриншот 5"
     }
   ],
   "installer_poster": "media/installer.png"

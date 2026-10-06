@@ -1,0 +1,108 @@
+{
+  "version": "0.4.0",
+  "components": [
+    "text"
+  ],
+  "builds": [
+    "RUSIK-Galactic-Racer-Byrnane-v0.4.0"
+  ],
+  "game_build_id": "25723189",
+  "text_locale": "en-US",
+  "audio_locale": "",
+  "compatibility": "Steam, Build ID 25723189",
+  "changes": "Первый релиз",
+  "known_issues": "",
+  "instructions": "УСТАНОВКА\n1. Закройте игру.\n2. Распакуйте содержимое ZIP в папку, где установлена игра, и подтвердите замену файлов.\n   Или перетащите из архива папку «Griffin» в папку с игрой и подтвердите замену файлов.\n   В Steam: нажмите правой кнопкой на игру в библиотеке → Управление → Просмотреть локальные файлы.\n3. В настройках игры выберите язык текста: Английский (English).\nПерезапустите игру после смены языка.\n\nОБНОВЛЕНИЕ\nЗакройте игру.\nДля ZIP: повторите шаг 2 с новым архивом и подтвердите замену файлов.\nДля EXE: запустите новый установщик — он сам заменит файлы перевода.\n\nУДАЛЕНИЕ\nЕсли перевод установлен из ZIP, удалите папку мода «RUSIK_by_Byrnane» целиком:\n   Griffin/Content/Paks/~mods/RUSIK_by_Byrnane\n\nЕсли перевод установлен через EXE, откройте папку .RUSIK в папке с игрой и запустите uninstall.exe.",
+  "prerelease": false,
+  "assets": [
+    {
+      "kind": "zip",
+      "name": "RUSIK-Galactic-Racer-Byrnane-v0.4.0.zip",
+      "size": 1889956,
+      "sha256": "05d520714ff839b44ec233a81e9593efd5d05f506408d7b2e92492720b4227eb"
+    },
+    {
+      "kind": "exe",
+      "name": "RUSIK-Galactic-Racer-Byrnane-v0.4.0-Setup.exe",
+      "size": 3276738,
+      "sha256": "b21e05c277f851a1e81f2271be0924e4ccbec0338fa212af0d671fce6b746412"
+    },
+    {
+      "kind": "document",
+      "name": "README.txt",
+      "size": 2349,
+      "sha256": "c6b345cb76419c4757f7134ff9fa94d6cfcecae3b280b0af58e6dc386f6d704b"
+    },
+    {
+      "kind": "document",
+      "name": "CHANGELOG.md",
+      "size": 36,
+      "sha256": "e1863fb5ca473db77d25fa74d2c558263c8f9d14daa87a9453b77ba102d1786d"
+    },
+    {
+      "kind": "document",
+      "name": "RELEASE.md",
+      "size": 2123,
+      "sha256": "5f9921b2202a800c0ef506c64c35e21f239c62f9094280dda6e51ae9e4e59374"
+    },
+    {
+      "kind": "image",
+      "name": "cover.png",
+      "size": 2264789,
+      "sha256": "18c4dab670be9fef82e8d7d3b79d281e6b1482348112d01f37d49802ebd08771"
+    },
+    {
+      "kind": "image",
+      "name": "screenshot_1.jpg",
+      "size": 888046,
+      "sha256": "fee5e5c83b52d86511506bb21cd8609d7ab717e629661dd6189c53503f4e71c1"
+    },
+    {
+      "kind": "image",
+      "name": "screenshot_2.jpg",
+      "size": 369351,
+      "sha256": "8d678c4a3c656341ce369459e1e44f4d5387605bf8b2e416a10aa27431feb049"
+    },
+    {
+      "kind": "image",
+      "name": "screenshot-f14ceb224ead31da.jpg",
+      "size": 294463,
+      "sha256": "f14ceb224ead31dad3034b44f5eeea415562183e2e7a985571561a8c73ea603c"
+    },
+    {
+      "kind": "image",
+      "name": "screenshot-f090c640375d2561.jpg",
+      "size": 421371,
+      "sha256": "f090c640375d256134e99d1409909568ec37cf7dce0a20286f22320a1f6fa99b"
+    },
+    {
+      "kind": "image",
+      "name": "screenshot-fe1ba7b2a3796b26.jpg",
+      "size": 388621,
+      "sha256": "fe1ba7b2a3796b26a5de809d19d99bd68c994eb0ab8465cbccefa387dc4db5f0"
+    },
+    {
+      "kind": "image",
+      "name": "installer.png",
+      "size": 2233922,
+      "sha256": "f7e5569e089ffd07686949a0e82521991887cc1760e64caf8e580c5655e2849f"
+    },
+    {
+      "kind": "document",
+      "name": "SHA256SUMS.txt",
+      "size": 1079,
+      "sha256": "9b743d360c5bf9b83a09aca9c651756fe835b5c93443489e49d4a3c19d9a357d"
+    }
+  ],
+  "mirrors": [
+    {
+      "label": "Янлекс Диск",
+      "url": "https://disk.yandex.ru/d/fyvYpPWzAF_ZnQ"
+    },
+    {
+      "label": "Google Drive",
+      "url": "https://drive.google.com/drive/folders/1i3sDS0jHNrh8jcrIOwLOAXnlCe17jGQG?usp=sharing"
+    }
+  ],
+  "telegram_post_url": ""
+}
