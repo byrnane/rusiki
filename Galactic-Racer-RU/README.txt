@@ -21,3 +21,5 @@ STAR WARS Galactic Racer — русификатор текста
 
 Скачать русификатор после выпуска:
 https://github.com/byrnane/rusiki/releases
+
+Архив для установки: STAR-WARS-Galactic-Racer-RU-v0.1.0.zip.
