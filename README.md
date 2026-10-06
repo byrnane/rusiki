@@ -14,6 +14,7 @@
 
 ## Игры
 
-- [STAR WARS Galactic Racer](Galactic-Racer-RU/README.txt) — готовится первый релиз, версия 0.1.0.
+
+- [STAR WARS: Galactic Racer](Galactic-Racer-RU/README.txt) — [страница русификатора](https://byrnane.dev/rusiki/galactic-racer-ru/).
 
 Если заметили ошибку в переводе или возникла проблема с установкой, [сообщите о ней](https://github.com/byrnane/rusiki/issues). Укажите игру и версию русификатора.
