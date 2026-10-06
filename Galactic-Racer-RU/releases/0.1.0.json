@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "components": [
+    "text"
+  ],
+  "builds": [],
+  "game_build_id": "",
+  "text_locale": "",
+  "audio_locale": "",
+  "compatibility": "",
+  "changes": "",
+  "known_issues": "",
+  "instructions": "",
+  "prerelease": false,
+  "assets": [],
+  "mirrors": [],
+  "telegram_post_url": ""
+}

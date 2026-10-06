@@ -1,0 +1,24 @@
+{
+  "author": "Byrnane",
+  "site_url": "https://byrnane.dev",
+  "github_repository": "byrnane/rusiki",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@byrnane"
+    },
+    {
+      "label": "Telegram",
+      "url": "https://t.me/exidny_byrnane"
+    },
+    {
+      "label": "Steam",
+      "url": "https://steamcommunity.com/id/Byrnane/"
+    },
+    {
+      "label": "itch.io",
+      "url": "https://byrnane.itch.io/"
+    }
+  ],
+  "license_text": "Русификатор можно бесплатно использовать и распространять с указанием автора Byrnane и ссылки на проект. Продажа русификатора запрещена.\n\nЭто неофициальный перевод; права на игру принадлежат её правообладателям. Перевод предоставляется «как есть».\n\nЭти условия распространяются только на материалы, права на которые принадлежат автору перевода, и не предоставляют прав на исходные материалы игры."
+}

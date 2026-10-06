@@ -1,0 +1,27 @@
+{
+  "slug": "galactic-racer-ru",
+  "title": "STAR WARS: Galactic Racer",
+  "summary": "Гонки во вселенной Star Wars: спидеры, подрейсеры и подпольная Галактическая лига. Можно пройти сюжетную кампанию или погонять по сети.",
+  "information": "Fuse Games · Гонки · Windows",
+  "description": "Работаю над переводом. Когда закончу, русификатор можно будет скачать здесь.",
+  "steam_url": "https://store.steampowered.com/app/4078430/",
+  "visible": true,
+  "cover": {
+    "file": "media/cover.png",
+    "alt": "Обложка русификатора STAR WARS: Galactic Racer от Byrnane",
+    "caption": ""
+  },
+  "screenshots": [
+    {
+      "file": "media/screenshot_1.jpg",
+      "caption": "Меню кампании",
+      "alt": "Меню кампании Galactic Racer на русском языке: новая кампания и бортовой журнал"
+    },
+    {
+      "file": "media/screenshot_2.jpg",
+      "caption": "Настройки графики",
+      "alt": "Настройки графики Galactic Racer на русском языке: режим экрана и качество изображения"
+    }
+  ],
+  "installer_poster": "media/installer.png"
+}
