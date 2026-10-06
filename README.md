@@ -1,4 +1,8 @@
-![Русские локализации от Byrnane](banner.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="banner.png">
+  <img alt="Русские локализации от Byrnane" src="banner.png">
+</picture>
 
 # Русификаторы от Byrnane
 
