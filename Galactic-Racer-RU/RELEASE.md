@@ -41,4 +41,6 @@ Steam, Build ID 25723189
 
 [Google Drive](https://drive.google.com/drive/folders/1i3sDS0jHNrh8jcrIOwLOAXnlCe17jGQG?usp=sharing)
 
+[Обсуждение в Telegram](https://t.me/exidny_byrnane/762)
+
 [Сообщить об ошибке](https://github.com/byrnane/rusiki/issues)
