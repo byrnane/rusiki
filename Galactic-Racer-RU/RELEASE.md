@@ -41,6 +41,10 @@ Steam, Build ID 25723189
 
 [Google Drive](https://drive.google.com/drive/folders/1i3sDS0jHNrh8jcrIOwLOAXnlCe17jGQG?usp=sharing)
 
+[PlayGround](https://www.playground.ru/star_wars_galactic_racer/file/star_wars_galactic_racer_rusifikator_teksta_po_glossariyu-1879821)
+
+[ZoG](https://www.zoneofgames.ru/games/star_wars_galactic_racer/files/13248.html)
+
 [Обсуждение в Telegram](https://t.me/exidny_byrnane/762)
 
 [Сообщить об ошибке](https://github.com/byrnane/rusiki/issues)
