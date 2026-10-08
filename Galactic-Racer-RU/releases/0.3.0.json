@@ -10,7 +10,7 @@
   "text_locale": "en-US",
   "audio_locale": "",
   "compatibility": "Steam, Build ID 25723189",
-  "changes": "Тестовый релиз",
+  "changes": "Первый релиз",
   "known_issues": "",
   "instructions": "УСТАНОВКА\n1. Закройте игру.\n2. Распакуйте содержимое ZIP в папку, где установлена игра, и подтвердите замену файлов.\n   Или перетащите из архива папку «Griffin» в папку с игрой и подтвердите замену файлов.\n   В Steam: нажмите правой кнопкой на игру в библиотеке → Управление → Просмотреть локальные файлы.\n3. В настройках игры выберите язык текста: Английский (English).\nПерезапустите игру после смены языка.\n\nОБНОВЛЕНИЕ\nЗакройте игру.\nДля ZIP: повторите шаг 2 с новым архивом и подтвердите замену файлов.\nДля EXE: запустите новый установщик — он сам заменит файлы перевода.\n\nУДАЛЕНИЕ\nЕсли перевод установлен из ZIP, удалите папку мода «RUSIK_by_Byrnane» целиком:\n   Griffin/Content/Paks/~mods/RUSIK_by_Byrnane\n\nЕсли перевод установлен через EXE, откройте папку .RUSIK в папке с игрой и запустите uninstall.exe.",
   "prerelease": false,
@@ -76,6 +76,15 @@
       "sha256": "ae83acfc172d92f6ab9b41da603de464685e7d86363451905ea523e528a36b77"
     }
   ],
-  "mirrors": [],
+  "mirrors": [
+    {
+      "label": "Янлекс Диск",
+      "url": "https://disk.yandex.ru/d/fyvYpPWzAF_ZnQ"
+    },
+    {
+      "label": "Google Drive",
+      "url": "https://drive.google.com/drive/folders/1i3sDS0jHNrh8jcrIOwLOAXnlCe17jGQG?usp=sharing"
+    }
+  ],
   "telegram_post_url": ""
 }
