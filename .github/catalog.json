@@ -5,19 +5,23 @@
   "links": [
     {
       "label": "YouTube",
-      "url": "https://www.youtube.com/@byrnane"
+      "url": "https://www.youtube.com/@byrnane",
+      "provider": "youtube"
     },
     {
       "label": "Telegram",
-      "url": "https://t.me/exidny_byrnane"
+      "url": "https://t.me/exidny_byrnane",
+      "provider": "telegram"
     },
     {
       "label": "Steam",
-      "url": "https://steamcommunity.com/id/Byrnane/"
+      "url": "https://steamcommunity.com/id/Byrnane/",
+      "provider": "steam"
     },
     {
       "label": "itch.io",
-      "url": "https://byrnane.itch.io/"
+      "url": "https://byrnane.itch.io/",
+      "provider": "itch"
     }
   ],
   "license_text": "Русификатор можно бесплатно использовать и распространять с указанием автора Byrnane и ссылки на проект. Продажа русификатора запрещена.\n\nЭто неофициальный перевод; права на игру принадлежат её правообладателям. Перевод предоставляется «как есть».\n\nЭти условия распространяются только на материалы, права на которые принадлежат автору перевода, и не предоставляют прав на исходные материалы игры."

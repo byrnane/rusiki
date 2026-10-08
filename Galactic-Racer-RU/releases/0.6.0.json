@@ -1,0 +1,132 @@
+{
+  "version": "0.6.0",
+  "translation_status": "complete",
+  "translated_strings": 22710,
+  "total_strings": 22710,
+  "reviewed_strings": 22710,
+  "context_characters": 26,
+  "context_locations": 9,
+  "context_factions": 3,
+  "context_concepts": 2,
+  "source_words": 151301,
+  "glossary_terms": 59,
+  "components": [
+    "text"
+  ],
+  "builds": [
+    "RUSIK-Galactic-Racer-Byrnane-v0.6.0"
+  ],
+  "game_build_id": "25801363",
+  "text_locale": "en-US",
+  "audio_locale": "",
+  "compatibility": "Steam, Build ID 25801363",
+  "changes": "Обновление под актуальную версию игры, небольшие правки по тексту",
+  "known_issues": "",
+  "instructions": "Полный русификатор текста для игры STAR WARS: Galactic Racer от Byrnane\n\nВерсия перевода: 0.6.0\nОписание обновления:\nОбновление под актуальную версию игры, небольшие правки по тексту\n\nУСТАНОВКА ИЗ ZIP\n1. Закройте игру.\n2. Откройте папку с игрой. В Steam: правой кнопкой по игре в библиотеке → Управление → Просмотреть локальные файлы.\n3. Распакуйте содержимое архива в открытую папку с игрой и подтвердите замену файлов.\n4. В настройках игры выберите язык текста — Английский (English). Возможно после выбора языка понадобится перезапустить игру!\n\nУСТАНОВКА ЧЕРЕЗ EXE\n1. Закройте игру.\n2. Запустите установщик и следуйте подсказкам, пока перевод не будет установлен\n3. В настройках игры выберите язык текста — Английский (English). Возможно после выбора языка понадобится перезапустить игру!\n\nОБНОВЛЕНИЕ\nЗакройте игру. Установите новую версию тем же способом:\nZIP — повторите распаковку из шага 3 и подтвердите замену файлов.\nEXE — запустите новый установщик, он заменит файлы перевода.\n\nУДАЛЕНИЕ\nПосле установки из ZIP удалите папку мода «RUSIK_by_Byrnane» целиком:\nGriffin/Content/Paks/~mods/RUSIK_by_Byrnane\nПосле установки через EXE запустите .RUSIK/uninstall.exe в папке с игрой.\n\nАВТОР И ССЫЛКИ\nСайт русификатора: https://byrnane.dev/rusiki/galactic-racer-ru/\nYouTube: https://www.youtube.com/@byrnane\nTelegram: https://t.me/exidny_byrnane\nGitHub: https://github.com/byrnane/rusiki\n\nУСЛОВИЯ\nРусификатор можно бесплатно использовать и распространять с указанием автора Byrnane и ссылки на проект. Продажа русификатора запрещена.\n\nЭто неофициальный перевод; права на игру принадлежат её правообладателям. Перевод предоставляется «как есть».\n\nЭти условия распространяются только на материалы, права на которые принадлежат автору перевода, и не предоставляют прав на исходные материалы игры.",
+  "instruction_template": "Полный русификатор текста для игры {{game_title}} от {{author}}\n\nВерсия перевода: {{version}}\nОписание обновления:\n{{changes}}\n\nУСТАНОВКА ИЗ ZIP\n1. Закройте игру.\n2. Откройте папку с игрой. В Steam: правой кнопкой по игре в библиотеке → Управление → Просмотреть локальные файлы.\n3. {{zip_step}}\n4. {{language_settings}} Возможно после выбора языка понадобится перезапустить игру!\n\nУСТАНОВКА ЧЕРЕЗ EXE\n1. Закройте игру.\n2. Запустите установщик и следуйте подсказкам, пока перевод не будет установлен\n3. {{language_settings}} Возможно после выбора языка понадобится перезапустить игру!\n\nОБНОВЛЕНИЕ\nЗакройте игру. Установите новую версию тем же способом:\nZIP — повторите распаковку из шага 3 и подтвердите замену файлов.\nEXE — запустите новый установщик, он заменит файлы перевода.\n\nУДАЛЕНИЕ\nПосле установки из ZIP удалите папку мода «{{mod_folder}}» целиком:\n{{mod_path}}\nПосле установки через EXE запустите {{uninstaller_path}} в папке с игрой.\n\nАВТОР И ССЫЛКИ\nСайт русификатора: {{site_url}}\nYouTube: {{youtube_url}}\nTelegram: {{telegram_url}}\nGitHub: {{github_url}}\n\nУСЛОВИЯ\n{{license_text}}",
+  "instruction_values": {
+    "game_title": "STAR WARS: Galactic Racer",
+    "version": "0.6.0",
+    "author": "Byrnane",
+    "site_url": "https://byrnane.dev/rusiki/galactic-racer-ru/",
+    "youtube_url": "https://www.youtube.com/@byrnane",
+    "telegram_url": "https://t.me/exidny_byrnane",
+    "github_url": "https://github.com/byrnane/rusiki",
+    "license_text": "Русификатор можно бесплатно использовать и распространять с указанием автора Byrnane и ссылки на проект. Продажа русификатора запрещена.\n\nЭто неофициальный перевод; права на игру принадлежат её правообладателям. Перевод предоставляется «как есть».\n\nЭти условия распространяются только на материалы, права на которые принадлежат автору перевода, и не предоставляют прав на исходные материалы игры.",
+    "components": "Перевод текста",
+    "text_language": "Английский (English)",
+    "audio_language": "",
+    "changes": "Обновление под актуальную версию игры, небольшие правки по тексту",
+    "language_settings": "В настройках игры выберите язык текста — Английский (English).",
+    "mod_path": "Griffin/Content/Paks/~mods/RUSIK_by_Byrnane",
+    "mod_folder": "RUSIK_by_Byrnane",
+    "uninstaller_path": ".RUSIK/uninstall.exe",
+    "zip_step": "Распакуйте содержимое архива в открытую папку с игрой и подтвердите замену файлов."
+  },
+  "assets": [
+    {
+      "kind": "zip",
+      "name": "RUSIK-Galactic-Racer-Byrnane-v0.6.0.zip",
+      "size": 1890899,
+      "sha256": "f11dde779e1da153b1a1118baaa21d7f64de7e645e5f88783b5a3bf39e094900"
+    },
+    {
+      "kind": "exe",
+      "name": "RUSIK-Galactic-Racer-Byrnane-v0.6.0-Setup.exe",
+      "size": 2563700,
+      "sha256": "bc68b738069d9c8b5afc647911d8d68d3b402247d895aa030a33dbde744bebf5"
+    }
+  ],
+  "documents": [
+    {
+      "kind": "document",
+      "name": "README.txt",
+      "size": 4103,
+      "sha256": "846c402eddc0a184e809f7ce3b48143c9cb835b6c1848614e4df92bff6eac695"
+    },
+    {
+      "kind": "document",
+      "name": "CHANGELOG.md",
+      "size": 134,
+      "sha256": "ebb60426aee0b41b1511e6c94ed59f1d30adb6e7e1bd990fa51eee7ef4ddf58f"
+    },
+    {
+      "kind": "document",
+      "name": "RELEASE.md",
+      "size": 4375,
+      "sha256": "8986ccdc8da8ab5fdc9c186e5f69827600ceabb12cdf9ef979c432cd6c55f357"
+    },
+    {
+      "kind": "document",
+      "name": "SHA256SUMS.txt",
+      "size": 456,
+      "sha256": "69988f52d69b3939e867cec8d41e3c2b1eae424e700bdf60d15f52785b7b4c6e"
+    }
+  ],
+  "mirrors": [
+    {
+      "label": "Яндекс Диск",
+      "url": "https://disk.yandex.ru/d/fyvYpPWzAF_ZnQ",
+      "provider": "yandex",
+      "confirmed": true
+    },
+    {
+      "label": "Google Drive",
+      "url": "https://drive.google.com/drive/folders/1i3sDS0jHNrh8jcrIOwLOAXnlCe17jGQG?usp=sharing",
+      "provider": "google_drive",
+      "confirmed": true
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/byrnane/rusiki/releases/tag/galactic-racer-ru-v0.6.0",
+      "provider": "github",
+      "confirmed": false
+    }
+  ],
+  "pages": [
+    {
+      "label": "Telegram",
+      "url": "https://t.me/exidny_byrnane/762",
+      "provider": "telegram",
+      "confirmed": true
+    },
+    {
+      "label": "Steam",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814877261",
+      "provider": "steam",
+      "confirmed": true
+    },
+    {
+      "label": "Zone of Games",
+      "url": "https://www.zoneofgames.ru/games/star_wars_galactic_racer/files/13248.html",
+      "provider": "zog",
+      "confirmed": true
+    },
+    {
+      "label": "PlayGround",
+      "url": "https://www.playground.ru/star_wars_galactic_racer/file/star_wars_galactic_racer_rusifikator_teksta_po_glossariyu-1879821",
+      "provider": "playground",
+      "confirmed": true
+    }
+  ]
+}
