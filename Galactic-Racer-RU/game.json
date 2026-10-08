@@ -38,5 +38,11 @@
       "alt": "STAR WARS: Galactic Racer, скриншот 5"
     }
   ],
-  "installer_poster": "media/installer.png"
+  "installer_poster": "media/installer.png",
+  "hero": {
+    "file": "media/hero-54fdc4cc46b3b740.webp",
+    "alt": "STAR WARS: Galactic Racer",
+    "caption": ""
+  },
+  "release_date": "2026-10-06"
 }

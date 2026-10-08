@@ -102,15 +102,27 @@
     {
       "label": "Google Drive",
       "url": "https://drive.google.com/drive/folders/1i3sDS0jHNrh8jcrIOwLOAXnlCe17jGQG?usp=sharing"
+    }
+  ],
+  "telegram_post_url": "https://t.me/exidny_byrnane/762",
+  "pages": [
+    {
+      "label": "Steam",
+      "provider": "steam",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814877261",
+      "confirmed": true
     },
     {
       "label": "PlayGround",
-      "url": "https://www.playground.ru/star_wars_galactic_racer/file/star_wars_galactic_racer_rusifikator_teksta_po_glossariyu-1879821"
+      "url": "https://www.playground.ru/star_wars_galactic_racer/file/star_wars_galactic_racer_rusifikator_teksta_po_glossariyu-1879821",
+      "provider": "playground",
+      "confirmed": true
     },
     {
-      "label": "ZoG",
-      "url": "https://www.zoneofgames.ru/games/star_wars_galactic_racer/files/13248.html"
+      "label": "Zone of Games",
+      "url": "https://www.zoneofgames.ru/games/star_wars_galactic_racer/files/13248.html",
+      "provider": "zog",
+      "confirmed": true
     }
-  ],
-  "telegram_post_url": "https://t.me/exidny_byrnane/762"
+  ]
 }
