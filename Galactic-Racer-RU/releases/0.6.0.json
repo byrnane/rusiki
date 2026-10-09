@@ -100,7 +100,7 @@
       "label": "GitHub",
       "url": "https://github.com/byrnane/rusiki/releases/tag/galactic-racer-ru-v0.6.0",
       "provider": "github",
-      "confirmed": false
+      "confirmed": true
     }
   ],
   "pages": [
