@@ -1,3 +1,14 @@
 /AGENTS.md
 /RELEASING.md
 /.github/RELEASING.md
+
+# Local Re:Script inputs and temporary exports.
+/Games/*/art/
+/Games/*/publication/
+/Games/*/media/work/
+/Games/*/media/.media-export-*/
+/Games/*/releases/.rescript-documents-*/
+/Games/*/releases/.rescript-publication-*/
+/*/release/.rescript-documents-*/
+/*/release/.rescript-publication-*/
+/*/media/.media-export-*/
