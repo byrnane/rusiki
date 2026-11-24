@@ -21,6 +21,6 @@
 
 
 
-- [STAR WARS: Galactic Racer](https://rusiki.byrnane.dev/galactic-racer-ru/) — [архивная инструкция для версии 0.6.0](Galactic-Racer-RU/README.txt).
+- [STAR WARS: Galactic Racer](https://rusiki.byrnane.dev/galactic-racer-ru/).
 
 Если заметили ошибку в переводе или возникла проблема с установкой, [сообщите о ней](https://github.com/byrnane/rusiki/issues). Укажите игру и версию русификатора.
