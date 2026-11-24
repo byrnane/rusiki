@@ -1,7 +1,13 @@
-/old_banners/
-/brand/
-/*/art/
-/*/media/work/
-/AGENTS.md
-/RELEASING.md
-/.github/RELEASING.md
+# Игровые данные, исходники и пакеты Re:Script хранятся локально.
+# В Git входят только перечисленные публичные файлы.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/banner.png
+!/banner_dark.png
+!/.github/
+!/.github/catalog.json
+!/Galactic-Racer-RU/
+!/Galactic-Racer-RU/README.txt
+!/Galactic-Racer-RU/CHANGELOG.md
