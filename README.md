@@ -21,6 +21,11 @@
 
 
 
-- [STAR WARS: Galactic Racer](https://rusiki.byrnane.dev/galactic-racer-ru/).
+### STAR WARS: Galactic Racer
+
+[Описание, скриншоты и инструкция](https://rusiki.byrnane.dev/galactic-racer-ru/)
+
+- **Версия 1.0** · [Установщик EXE](https://github.com/byrnane/rusiki/releases/download/galactic-racer-ru-v1.0/Galactic-Racer-RUS-Byrnane-v1.0-Setup.exe) · [ZIP-архив](https://github.com/byrnane/rusiki/releases/download/galactic-racer-ru-v1.0/Galactic-Racer-RUS-Byrnane-v1.0.zip) · [Что нового](https://github.com/byrnane/rusiki/releases/tag/galactic-racer-ru-v1.0)
+- [Предыдущая версия 0.6.0](https://github.com/byrnane/rusiki/releases/tag/galactic-racer-ru-v0.6.0)
 
 Если заметили ошибку в переводе или возникла проблема с установкой, [сообщите о ней](https://github.com/byrnane/rusiki/issues). Укажите игру и версию русификатора.
