@@ -1,0 +1,5 @@
+f11dde779e1da153b1a1118baaa21d7f64de7e645e5f88783b5a3bf39e094900  RUSIK-Galactic-Racer-Byrnane-v0.6.0.zip
+bc68b738069d9c8b5afc647911d8d68d3b402247d895aa030a33dbde744bebf5  RUSIK-Galactic-Racer-Byrnane-v0.6.0-Setup.exe
+846c402eddc0a184e809f7ce3b48143c9cb835b6c1848614e4df92bff6eac695  README.txt
+ebb60426aee0b41b1511e6c94ed59f1d30adb6e7e1bd990fa51eee7ef4ddf58f  CHANGELOG.md
+8986ccdc8da8ab5fdc9c186e5f69827600ceabb12cdf9ef979c432cd6c55f357  RELEASE.md
